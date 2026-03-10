@@ -26,6 +26,7 @@ def get_filters():
 
 
     print('-'*40)
+    cityy = "Chicago"
     return city, month, day
 
 
@@ -41,7 +42,7 @@ def load_data(city, month, day):
         df - Pandas DataFrame containing city data filtered by month and day
     """
 
-
+    df = None
     return df
 
 
