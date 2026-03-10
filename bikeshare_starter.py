@@ -26,6 +26,7 @@ def get_filters():
 
 
     print('-'*40)
+    cityy = "Chicago"
     return city, month, day
 
 
