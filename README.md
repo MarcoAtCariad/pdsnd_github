@@ -8,7 +8,7 @@ Include the date you created this project and README file:
 Replace the Project Title
 
 ### Description
-Describe what your project is about and what it does
+No idea what this is about
 
 ### Files used
 bikeshare_starter.py
